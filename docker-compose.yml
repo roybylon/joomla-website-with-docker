@@ -1,0 +1,38 @@
+name: hydrogen-joomla-test
+
+services:
+  joomla:
+    image: joomla:5.1-php8.1-apache
+    container_name: hydrogen-app
+    restart: always
+    ports:
+      - 8081:80
+    environment:
+      - JOOMLA_DB_HOST=joomladb
+      - JOOMLA_DB_PASSWORD=example
+    depends_on:
+      joomladb:
+        condition: service_healthy
+    # user: 1000:1000
+    volumes:
+      - ./site_joomla:/var/www/html
+      - ./config/php.ini:/usr/local/etc/php/conf.d/custom.ini
+      - ./vmfiles:/var/www/vmfiles  # Create vmfiles outside Joomla root
+    # command: /bin/bash -c "chmod -R 777 /var/www/vmfiles && apache2-foreground"
+    command: /bin/bash -c "chmod -R 777 /var/www/vmfiles /var/www/html/images/virtuemart /var/www/html/cache /var/www/html/administrator/logs /var/www/html/tmp && apache2-foreground"
+
+  joomladb:
+    image: mysql:8.0.13
+    container_name: hydrogen-db
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=example
+    healthcheck:
+      # test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1"]
+
+      timeout: 20s
+      retries: 10
+    # user: 1000:1000
+    volumes:
+      - ./db:/var/lib/mysql

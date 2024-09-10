@@ -1,0 +1,832 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_id>home</menu_item_id>
+      <menu_item_articlename>Home</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_id>About Us</menu_item_id>
+      <menu_item_articlename>About Us</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Woman</menu_item_title>
+      <menu_item_path>woman</menu_item_path>
+      <menu_item_id>woman</menu_item_id>
+      <menu_item_articlename>Woman</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>woman</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Man</menu_item_title>
+      <menu_item_path>man</menu_item_path>
+      <menu_item_id>man</menu_item_id>
+      <menu_item_articlename>Man</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>man</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Kids</menu_item_title>
+      <menu_item_path>kids</menu_item_path>
+      <menu_item_id>kids</menu_item_id>
+      <menu_item_articlename>Kids</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>kids</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_id>Contact</menu_item_id>
+      <menu_item_articlename>Contact</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_id>Blog</menu_item_id>
+      <menu_item_articlename>Blog</menu_item_articlename>
+      <menu_item_articletype>category</menu_item_articletype>
+      <menu_item_slug>blog</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/29/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">Shop The Latest</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.69em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:199.714285714286px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/handstiched_boiled_wool_crop_top_1400x600.jpg" alt="dv" /></span></span><span style="font-size:1.143em;">Wool Crop Top</span></p><p style="text-align:Center; display:block; line-height:2em;"><span style="font-weight:700;font-size:1.357em;color:rgba(53,181,235,1);">$85.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.69em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:199.714285714286px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/kato_trouser_1600x900.jpg" alt="ds" /></span></span><span style="font-size:1.143em;">&nbsp;&nbsp;</span><span style="font-size:1.143em;">Kato Trouser</span></p><p style="text-align:Center; display:block; line-height:2em;"><span style="font-size:1.357em;">&nbsp;&nbsp;</span><span style="font-weight:700;font-size:1.357em;color:rgba(53,181,235,1);">$92.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.69em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:234.939759036145px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/shop1image4.jpg" alt="fv" /></span></span><span style="font-size:1.143em;">Suede Field Jacket</span></p><p style="text-align:Center; display:block; line-height:2em;"><span style="font-weight:700;font-size:1.357em;color:rgba(53,181,235,1);">$16.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.69em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:235px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/shop1image2235x300.jpg" alt="f" /></span></span><span style="font-size:1.429em;">&nbsp;&nbsp;</span><span style="font-size:1.143em;">Multi Pocket Jacket</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><br style="font-size:1.143em;" /><span style="font-weight:700;font-size:1.286em;color:rgba(53,181,235,1);">$59.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:5.14em;"><span style="font-weight:700;font-size:3.571em;color:rgba(53,181,235,1);">20% </span><span style="font-size:3.571em;">Discount On Summer Collection</span></p><p style="margin:5px 0px 20px 0px;line-height:2.36em;"><span style="font-size:1.143em;color:rgba(0,0,0,1);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus augue nibh, at ullamcorper orci ullamcorper ut. Nisl tincidunt eget nullam non nisi est. Pharetra et ultrices neque ornare. Ac felis donec et odio pellentesque diam volutpat commodo sed.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus augue nibh, at ullamcorper orci ullamcorper ut.</span></p><p style="line-height:1.69em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">View Items</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:300px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/front_01.jpg" alt="asd" /></span><p style="text-align:Center; display:block; line-height:3.11em;"><span style="font-size:2.143em;">Women Fashion</span></p><p style="text-align:Center; display:block; "><span>Finley WooCommerce theme is perfectly suitable for everyone in the fashion business.</span></p></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:300px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/front_02.jpg" alt="werh" /></span></span><span style="font-size:2.143em;">Men Fashion</span></p><p style="text-align:Center; display:block; ">Let your brand shine with unique design to help you introduce every aspect of product</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:300px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/front_03.jpg" alt="rt" /></span></span><span style="font-size:2.143em;">Accessories</span></p><p style="text-align:Center; display:block; ">Showcase products and grow your accessories business with Finley’s WooCommerce shop.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="text-align:Center; display:block; line-height:0.79em;"><span style="font-size:0.533em;color:rgba(255,255,255,1);">BACK TO SCHOOL</span></h2><h2 style="text-align:Center; display:block; line-height:1.93em;"><span style="font-weight:700;font-size:1.333em;color:rgba(255,255,255,1);">Kids</span><span style="font-weight:700;font-size:1.333em;color:rgba(255,255,255,1);"> Collection</span></h2><h2 style="text-align:Center; display:block; line-height:0.93em;"><span style="font-size:0.633em;color:rgba(255,255,255,1);">We celebrate childhood by supporting babies, children,andfamilieswith thoughtful designs, quality materials and construction,and convenient shopping options.</span></h2><h2 style="text-align:Center; display:block; line-height:0.93em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Shop collection</a></span></h2></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column41">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row5 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">Trending Now</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row6 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column60">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:900px;max-width:740px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/11.png" alt="yu" /></span></span><span style="font-size:1.286em;">Faxon Canvas Low-Top Sneaker</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add to Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column61">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:900px;max-width:740px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/2.png" alt="g" /></span></span><span style="font-size:1.286em;">FPlaid Cotton Oxford Shirt</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add to Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column62">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:900px;max-width:740px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/3.png" alt="gh" /></span></span><span style="font-size:1.286em;">Two-Tone Sleeveless Dress</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add to Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column63">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:900px;max-width:740px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/4.png" alt="hg" /></span></span><span style="font-size:1.286em;">Viscose-Cashmere Scarf</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add to Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column64">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:900px;max-width:740px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/51.png" alt="gty" /></span></span><span style="font-size:1.286em;">Round neck sweater</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add to Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column65">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:900px;max-width:740px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/6.png" alt="yu" /></span></span><span style="font-size:1.286em;">Viscose-Cashmere Scarf</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add to Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/29/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">The </span><span style="font-weight:700;font-size:2.857em;">Shop</span><span style="font-weight:700;font-size:2.857em;"> You Trust In</span></p><p style="margin:5px 0px 20px 0px;line-height:1.69em;"><span style="font-size:1.143em;">Donec quam felis, ultricies nec, and pellentesque eu, pretium quis, sem. justo penatibus et magnis dis parturient montes, nascetur ridiculus mus. commodo ligula eget dolor. Aenean massa.</span><span style="font-size:1.143em;">&nbsp;&nbsp;</span><span style="font-size:1.143em;">Cum sociis natoque Donec quam felis, ultricies nec, and pellentesque quis eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, eget fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, vitae,</span></p><p style="line-height:1.69em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">Our Service Content</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.61em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:80px;max-width:80px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/email.png" alt="uyg" /></span></span><span style="font-size:1.786em;">Online Customer Service</span></p><p style="text-align:Center; display:block; ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus augue nibh, at ullamcorper orci ullamcorper </p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.61em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:80px;max-width:80px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/international.png" alt="d" /></span></span><span style="font-size:1.786em;">International Delivery</span></p><p style="text-align:Center; display:block; ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus augue nibh, at ullamcorper orci ullamcorper</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.61em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:80px;max-width:80px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/gift1.png" alt="k" /></span></span><span style="font-size:1.786em;">Free Gift</span></p><p style="text-align:Center; display:block; ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus augue nibh, at ullamcorper orci ullamcorper </p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">Our Team</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row4 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:508px;max-width:508px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/12.png" alt="yu" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column41">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:508px;max-width:508px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/21.png" alt="gh" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column42">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:508px;max-width:508px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/31.png" alt="tgh" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column43">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:508px;max-width:508px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/41.png" alt="ty" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_name>Contact</page_name>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/29/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1280px;max-width:1920px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/map846083_1920.jpg" alt="ert" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">C</span><span style="font-weight:700;font-size:2.857em;">ontact</span><span style="font-weight:700;font-size:2.857em;"> I</span><span style="font-weight:700;font-size:2.857em;">nfo</span></p><p style="margin:5px 0px 20px 0px;line-height:1.69em;"><span style="font-size:1.143em;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</span></p><p style="margin:2px 0px 0px 0px;line-height:1.49em;color:rgba(51,51,51,1);">123 ABC Ave Street View #456 XYZ</p><p style="margin:2px 0px 0px 0px;line-height:1.49em;color:rgba(51,51,51,1);">New York City,</p><p style="margin:2px 0px 0px 0px;line-height:1.49em;color:rgba(51,51,51,1);">NY 10005, USA</p><p style="margin:2px 0px 0px 0px;line-height:1.49em;color:rgba(51,51,51,1);"><span style="font-weight:700;">PHONES:</span> (800) 123-4567-890</p><p style="margin:2px 0px 20px 0px;line-height:1.49em;color:rgba(51,51,51,1);"><span style="font-weight:700;">WE ARE OPEN:</span> Mon-Fri: 10:00 AM - 8:00 PM</p><p style="margin:2px 0px 0px 0px;line-height:1.49em;color:rgba(51,51,51,1);"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Call Now</a></span></p><p style="line-height:1.69em;"><span style="font-size:1.143em;">.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_contact_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 30px 0px;text-align:Center; display:block; line-height:4.03em;"><span style="font-weight:700;font-size:2.786em;">Send A Message</span></p><p><div style="width:100%;" xmlns="contactformparentdiv"><div class="contactformdiv" style="margin:0px 0px 0px 0px;">{loadmoduleid db72c0e2-d755-4db6-9edf-3bf42da8eb5d}</div></div></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+      <contactforms><contactform id="db72c0e2-d755-4db6-9edf-3bf42da8eb5d" filesize="0" BrowseButtonVisibility="Visible" msg_name="Message"><ListViewItem ContentStringFormat="NoValidation" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="{x:Null}" Name="Name" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Name</ListViewItem><ListViewItem ContentStringFormat="Email" IsTabStop="False" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="Mandate" Name="Email" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Email</ListViewItem><ListViewItem ContentStringFormat="NoValidation" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="{x:Null}" Name="Subject" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Subject</ListViewItem></contactform></contactforms>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Woman</page_title>
+      <alias>woman</alias>
+      <page_name>Woman</page_name>
+      <page_header_id>woman</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/29/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_woman_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">Woman Collection</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_woman_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:251px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/ezgif.comwebptopng21.png" alt="gh" /></span></span><span style="font-size:1.429em;">Vestibulum</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:250.783333333333px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/pppp.jpg" alt="cv" /></span></span><span style="font-size:1.429em;">Tortor face</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:251px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/ezgif.comwebptopng22.png" alt="ghj" /></span></span><span style="font-size:1.429em;">Torquent</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:250.783333333333px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/ezgif.comwebptopng23.png" alt="h" /></span></span><span style="font-size:1.429em;">Suspendisse</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_woman_html_row2 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:245px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/12.jpg" alt="ert" /></span></span><span style="font-size:1.429em;">Aubergine Zip Culotte</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:245px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/13.jpg" alt="rty" /></span></span><span style="font-size:1.429em;">Aubergine Zip Culotte</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:245px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/15.jpg" alt="rt" /></span></span><span style="font-size:1.429em;">Aubergine Zip Culotte</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:245px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/14.jpg" alt="78" /></span></span><span style="font-size:1.429em;">Aubergine Zip Culotte</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_woman_html_row3 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:260px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/pick1.png" alt="er" /></span></span><span style="font-size:1.429em;">Belted Chino Trousers</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:254px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/pick2.jpg" alt="er" /></span></span><span style="font-size:1.429em;">Belted Chino Trousers</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:254.453333333333px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/pick3.jpg" alt="dfg" /></span></span><span style="font-size:1.429em;">Belted Chino Trousers</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_woman_html_column33">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:261.84440227704px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/pick4.png" alt="ert" /></span></span><span style="font-size:1.429em;">Belted Chino Trousers</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page5</meta_ID>
+      <page_title>Man</page_title>
+      <alias>man</alias>
+      <page_name>Man</page_name>
+      <page_header_id>man</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/29/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_man_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">Man Collection</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_man_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:260px;max-width:260px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/ezgif.comwebptopng27.png" alt="nmk" /></span></span><span style="font-size:1.429em;">Slim Fit 3pc Solid</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:351px;max-width:351px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/ezgif.comwebptopng26.png" alt="ghj" /></span></span><span style="font-size:1.429em;">Traditional Fit 2pc</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:351px;max-width:351px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/ezgif.comwebptopng25.png" alt="cvb" /></span></span><span style="font-size:1.429em;">Luxury Fit 3pc Black</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:351px;max-width:351px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/ezgif.comwebptopng24.png" alt="d" /></span></span><span style="font-size:1.429em;">Exclusive Fit 3pc</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_man_html_row2 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:244.196153846154px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/man2.jpg" alt="f" /></span></span><span style="font-size:1.429em;">Leather Jacket</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:244.666666666667px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/man21.jpg" alt="weg" /></span></span><span style="font-size:1.429em;">Cotten Shirt</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:244.666666666667px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/man4.jpg" alt="sdfg" /></span></span><span style="font-size:1.429em;">Cotten Trouser</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_man_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:367px;max-width:244.666666666667px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/man6.jpg" alt="c" /></span></span><span style="font-size:1.429em;">Cotten Shirt</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page6</meta_ID>
+      <page_title>Kids</page_title>
+      <alias>kids</alias>
+      <page_name>Kids</page_name>
+      <page_header_id>kids</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/29/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_kids_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.13em;"><span style="font-weight:700;font-size:2.857em;">Baby Clothes</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_kids_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:439px;max-width:390px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod221.jpg" alt="sgh" /></span></span><span style="font-size:1.429em;">Denim Jumpsuit</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:439px;max-width:390px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod231.jpg" alt="hj" /></span></span><span style="font-size:1.429em;">Denim Shorts</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:439px;max-width:390px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod11.jpg" alt="h" /></span></span><span style="font-size:1.429em;">Not Afraid Cotton</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:439px;max-width:390px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod31.jpg" alt="fg" /></span></span><span style="font-size:1.429em;">T-shirt The Best</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column14">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:439px;max-width:390px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod41.jpg" alt="gh" /></span></span><span style="font-size:1.429em;">Love Cat T-shirt</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column15">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:439px;max-width:390px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod61.jpg" alt="tyhj" /></span></span><span style="font-size:1.429em;">Surfin’ Wild T-shirt</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column16">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1035px;max-width:920px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod176.jpg" alt="sdf" /></span></span><span style="font-size:1.429em;">Knit Hat</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_kids_html_column17">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:439px;max-width:390px;margin:0px 0px 10px 0px;" src="<?php echo $template_path; ?>/images/babyprod81.jpg" alt="dfv" /></span></span><span style="font-size:1.429em;">Stamped Cotton Blouse</span></p><p style="text-align:Center; display:block; line-height:2.1em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Add To Cart</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="abc0">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">Help &amp; Information</span></h4><p>Help</p><p>Track Order</p><p>Delivery &amp; Returns</p><p>10% Student Discount</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>woman</widget_page>
+          <widget_page>man</widget_page>
+          <widget_page>kids</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc1">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">About Us</span></h4><p style="line-height: normal;">About Us</p><p style="line-height: normal;">Career At Theshop</p><p style="line-height: normal;">Investors Site</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>woman</widget_page>
+          <widget_page>man</widget_page>
+          <widget_page>kids</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc2">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">Customer Care</span></h4><p style="line-height: normal;">Gift Card</p><p style="line-height: normal;">Size Guide</p><p style="line-height: normal;">Terms &amp; Condition</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>woman</widget_page>
+          <widget_page>man</widget_page>
+          <widget_page>kids</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc3">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">Newsletter</span></h4><p style="line-height: normal;">Sign up to Theshop newlettter for 10%</p><p style="line-height: normal;">Discount code.</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>woman</widget_page>
+          <widget_page>man</widget_page>
+          <widget_page>kids</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes />
+    <slideshowshapes />
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>

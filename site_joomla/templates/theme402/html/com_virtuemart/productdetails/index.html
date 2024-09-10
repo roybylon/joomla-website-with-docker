@@ -1,0 +1,123 @@
+<!doctype html>
+	<head>
+		<title>Responsive Tabs Demo - Pete Love</title>
+		<link rel="stylesheet" href="css/responsive-tabs.css">
+		<style type="text/css">
+
+			/* Styles for demo page only - not required */
+
+			body {
+				background: #fff;
+				color: #333;
+				padding:15px 20px;
+				font-family: Helvetica, Arial, sans-serif;
+				line-height: 1.5em;
+				
+			}
+			a { color: #0496b6}
+
+			h1, h2 { margin: 1em 0 1.5em 0; color: #0f556f}
+			.tabs h1, .tabs h2 { color: #333; margin-bottom: 1em;}
+			.tabs ul, .tabs ol, .tabs p { margin-top:0; padding-top: 1em;}
+			.tabs ul li, .tabs ol li { margin-bottom: 0.5em;}
+
+			hgroup h1 { margin-bottom:0; margin-top:0; line-height: 1.2em;}
+			
+			hgroup h2 { font-size: 1.1em; font-weight: normal; position: absolute; top: 16px; right:20px;}
+
+			.btn { display: block; float: left;  padding: 10px 15px; background: #0496b6; font-size: 1.5em; color: #fff; font-weight: bold; text-decoration: none; border-radius: 5px;  text-align: center; box-shadow: 2px 2px 2px #eee;}
+			.btn:hover { background: #3cb7d3}
+			.clearfix {
+			  *zoom: 1;
+			}
+
+			.clearfix:before,
+			.clearfix:after {
+			  display: table;
+			  content: "";
+			}
+
+			.clearfix:after {
+			  clear: both;
+			}
+			.intro { margin: 20px 0; background: #c9f6f9; border: 1px solid #ccc; box-shadow: 2px 2px 2px #eee; padding: 5px 15px 10px 15px; }
+			p.demo-intro { font-size: 1.2em; margin-bottom: -0.5em; font-weight: bold; }
+
+			@media (max-width: 767px) {
+				hgroup h1 { margin-top: 25px;}
+				hgroup h2 { top: 0;}
+			 	.btn { width: 80%; margin: 20px auto; float:none;}
+			}
+
+		</style>
+	</head>
+	<body>
+		<hgroup>
+			<h1>Responsive Tabs Demo</h1>
+			<h2><span><a href="http://www.petelove.com">www.petelove.com</a> | <a href="https://twitter.com/pete_love">Follow me on Twitter</a></span></h2>
+		</hgroup>
+		<div class="intro">
+			<p class="demo-intro">In this example, the <strong>media query breakpoint is set 768px</strong>.</p>
+			<p>Resize window below 768px and controls will be an accordion.<br/>Resize to 768px or above and they will appear as regular tabs.</p>
+		</div>
+
+		<div class="responsive-tabs">
+
+			<h2>Key features</h2>
+			<div>
+				<ul>
+					<li>Progressive enhancement - uses semantic heading/content markup - tabs and accordion are created entirely with jQuery</li>
+					<li>Uses Aria attributes and roles to aid screen reader accessibility</li>
+					<li>Tabs and their content are fully accessible via keyboard</li>
+					<li>Supports multiple sets of tabs on same page</li>
+				</ul>
+			</div>
+
+			<h2>How to use</h2>
+			<div>
+				<ol>
+					<li>Include jQuery (minimum version 1.5.1 and above)</li>
+					<li>Include responsiveTabs.js</li>
+					<li>Include the css from responsive-tabs.css, and adjust the media query breakpoint as desired</li>
+					<li>Markup your tabs regions as follows:
+					<code><pre>
+&lt;div class="tabs">
+  &lt;h2>[...]&lt;/h2>
+  &lt;div>[...]&lt;/div>
+  &lt;h2>[...]&lt;/h2>
+  &lt;div>[...]&lt;/div>
+&lt;/div>
+					</pre></code>
+					<span>The headings can be any level, from h1 to h6. Note that the first (leftmost) tab panel will be open by default in 'tab view', while all panels will be closed in 'accordion view' (ie. below the specified breakpoint).</span>
+					<p>If you want a specific tab other than the first to be open by default then add the class 'responsive-tabs__panel--active' onto the panel, eg:</p>
+					<code><pre>
+&lt;div class="tabs">
+  &lt;h2>[...]&lt;/h2>
+  &lt;div>[...]&lt;/div>
+  &lt;h2>[...]&lt;/h2>
+  &lt;div class="responsive-tabs__panel--active">[...]&lt;/div>
+&lt;/div>
+					</pre></code>
+
+					</li>
+					<li>On document ready, call the function responsiveTabs() </li>
+				</ol>
+			</div>
+			
+			<h2>Download</h2>
+			<div>
+				<p>responsiveTabs.js is available for download on Github</p>
+				<a class="btn" href="https://github.com/petelove666/Responsive-Tabs">Download from Github</a>
+			</div>
+		</div>
+
+		
+		<script src="http://code.jquery.com/jquery-1.8.0.min.js"></script>
+		<script src="js/responsiveTabs.js"></script>
+		<script>
+		$(document).ready(function() {
+			RESPONSIVEUI.responsiveTabs();
+		})
+		</script>
+	</body>
+</html>
